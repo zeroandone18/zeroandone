@@ -2,11 +2,11 @@
 
 ### Personal Details
 
-Date of Birth: December 18, 1986
-Age: 37
-Nationality: Indian
-Sex: Male
-Martial Status: Married
+- **Date of Birth**: December 18, 1986
+- **Age**: 37
+- **Nationality**: Indian
+- **Sex**: Male
+- **Marital Status**: Married
 
 ### Permanent Address
 
@@ -16,7 +16,7 @@ Email: guruprasadkadam18@gmail.com
 Address: Flat N0. 206, A-Wing,
 Anand Prospera, Takalikar Estate,
 Hari Om Nagar, Rankala,
-Kolhapur,Maharashtra,
+Kolhapur, Maharashtra,
 India-416 012
 ```
 ## Current Address
